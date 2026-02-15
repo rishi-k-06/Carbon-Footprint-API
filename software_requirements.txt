@@ -1,0 +1,6 @@
+flask>=2.3.0
+flask-sqlalchemy
+psycopg2-binary
+pandas
+marshmallow
+requests
